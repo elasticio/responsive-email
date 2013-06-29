@@ -1,4 +1,4 @@
-h1. Responsive email template
+h1. Responsive email template for Mailchimp
 
 A table-based (but responsive) email template. Has MailChimp merge tags in place. Based on the following work:
 
