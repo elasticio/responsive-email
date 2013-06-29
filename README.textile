@@ -4,11 +4,11 @@ This is a responsive e-mail template that looks great great
 
 h3. on the desktop:
 
-<img src="http://static.elastic.io/blog/email_desktop.png" style="border: 1px solid black"/>
+!http://static.elastic.io/blog/email_desktop.png!
 
 h3. and on the mobile.
 
-<img src="http://static.elastic.io/blog/email_mobile.png" style="border: 1px solid black; width: 200px"/>
+!http://static.elastic.io/blog/email_mobile.png!
 
 A table-based (but responsive) email template. Has MailChimp merge tags in place. Based on the following work:
 
