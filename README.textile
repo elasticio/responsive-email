@@ -1,5 +1,15 @@
 h1. Responsive email template for Mailchimp
 
+This is a responsive e-mail template that looks great great
+
+h3. on the desktop:
+
+<img src="http://static.elastic.io/blog/email_desktop.png" style="border: 1px solid black"/>
+
+h3. and on the mobile.
+
+<img src="http://static.elastic.io/blog/email_mobile.png" style="border: 1px solid black; width: 200px"/>
+
 A table-based (but responsive) email template. Has MailChimp merge tags in place. Based on the following work:
 
 * "From Monitor To Mobile: Optimizing Email Newsletters With CSS":http://coding.smashingmagazine.com/2011/08/18/from-monitor-to-mobile-optimizing-email-newsletters-with-css/
@@ -15,7 +25,6 @@ We are using Mailchimp at elastic.io and it is important for us to keep template
 * Hide or show each of the secions
 
 See "Mailchimp Template Language":http://templates.mailchimp.com/getting-started/mailchimp-template-language/ for more information.
-
 
 h2. Images
 
