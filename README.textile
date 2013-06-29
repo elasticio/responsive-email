@@ -6,11 +6,26 @@ A table-based (but responsive) email template. Has MailChimp merge tags in place
 * "Email Boilerplate":https://github.com/seanpowell/Email-Boilerplate
 * "MailChimp Email Blueprints":https://github.com/mailchimp/Email-Blueprints
 
+h2. Mailchimp Features
+
+We are using Mailchimp at elastic.io and it is important for us to keep template (presentation) separated from the content, therefore we added couple of Mailchimp-specific markup attribute. With our template you can:
+
+* Modify text and header for each visible block (header, sections header, section text,section links and footer)
+* Modify pictures for each section
+* Hide or show each of the secions
+
+See "Mailchimp Template Language":http://templates.mailchimp.com/getting-started/mailchimp-template-language/ for more information.
+
+
 h2. Images
 
 Some of the images used within this template are created at double-resolution to give a crisp display on HiDPI screens (such as iPhone4 onwards) - please bear in mind this will require extra bandwidth. If you are optimising for lower bandwidths you may want to use standard resolution images instead. Also, images hidden using @display:none;@ do still load, even though they are not displayed.
 
-Make sure you link all your images using full URL paths, and upload them to a suitable webspace, or upload/link via your email transmission service.
+Make sure you link all your images using full URL paths, and upload them to a suitable webspace, or upload/link via your email transmission service. Please note that currently some of the images (logo, social icons) are linked to elastic.io CDN (http://static.elastic.io) don't forget to change that.
+
+h2. Fork
+
+This repository is forked from Forked from "philwareham/responsive-email":https://github.com/philwareham/responsive-email
 
 h2. License
 
